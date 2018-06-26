@@ -1,0 +1,2 @@
+# sqlbasic
+SQL learning
